@@ -2,8 +2,6 @@
 
 > **AI-powered productivity assistant** with a sleek, terminal-inspired UI, customisable agents, conversation history, and real-time token-streaming.
 
-<https://github.com/user-attachments/assets/49460747-ee69-4fa8-adae-87e97a425fd4>
-
 ## 🏗️ Architecture & Technical Design 
 
 ```
